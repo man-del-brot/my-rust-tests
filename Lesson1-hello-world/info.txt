@@ -1,0 +1,5 @@
+cargo new --bin hello
+
+cd hello
+
+cargo run
